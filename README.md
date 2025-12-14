@@ -3,7 +3,7 @@
 <h1>KANGAL PUBG Mobile Tool</h1>
 An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
-**English** | [**العربية**](./README.ar.md)
+**English**
 
 </div>
 
