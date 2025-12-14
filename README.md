@@ -3,10 +3,6 @@
 <h1>KANGAL PUBG Mobile Tool</h1>
 An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
-
-[![Author](https://img.shields.io/badge/Author-Mohamed%20Kamal-blue)](https://github.com/MohamedKVIP) [![GitHub Release Date](https://img.shields.io/github/release-date/MohamedKVIP/KANGAL-PUBG-Mobile-Tool)](https://github.com/MohamedKVIP/KANGAL-PUBG-Mobile-Tool/releases) [![GitHub all releases](https://img.shields.io/github/downloads/MohamedKVIP/KANGAL-PUBG-Mobile-Tool/total?color=brightgreen)](https://github.com/MohamedKVIP/KANGAL-PUBG-Mobile-Tool/releases) [![GitHub issues](https://img.shields.io/github/issues-raw/MohamedKVIP/KANGAL-PUBG-Mobile-Tool)](https://github.com/MohamedKVIP/KANGAL-PUBG-Mobile-Tool/issues) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedKVIP%2FKANGAL-PUBG-Mobile-Tool&countColor=%2337d67a&style=flat)
-
-
 **English** | [**العربية**](./README.ar.md)
 
 </div>
@@ -83,17 +79,3 @@ After the installation is complete, run the tool:
 ```shell
 python main.py
 ```
-
-Screenshots
------------
-
-Here's a screenshot of the KANGAL PUBG Mobile Tool:
-
-![KANGAL PUBG Mobile Tool screenshot](./images/KANGAL-pubg-mobile-tool.png)
-![KANGAL PUBG Mobile Tool Optimize screenshot](./images/KANGAL-pubg-mobile-tool-optimize.png)
-![KANGAL PUBG Mobile Tool About screenshot](./images/KANGAL-pubg-mobile-tool-about.png)
-
-Note
-----
-
-This tool is not affiliated with PUBG Mobile or Gameloop. Use at your own risk.
